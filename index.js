@@ -169,11 +169,11 @@ ${markdownSections.contact ? markdownSections.contact : ''}`;
 
   let fs = require('fs');
 
-  if (!fs.existsSync('./generated-README')){
-      fs.mkdirSync('./generated-README');
+  if (!fs.existsSync('../../generated-README')){
+      fs.mkdirSync('../../generated-README');
   }
 
-  fs.writeFile('./generated-README/README.md', MARKDOWN, function (err) {
+  fs.writeFile('../../generated-README/README.md', MARKDOWN, function (err) {
     if (err) throw err;
     console.log('README created in generated-README folder.');
   });
