@@ -1,0 +1,28 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generate a basic README file from command-line input.",
+  "main": "index.js",
+  "author": "Cole Ballard <colebdev0@gmail.com> (https://coleballard.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeBallard/README-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "inquirer"
+  ],
+  "bugs": {
+    "url": "https://github.com/ColeBallard/README-generator/issues"
+  },
+  "homepage": "https://github.com/ColeBallard/README-generator#readme"
+}
