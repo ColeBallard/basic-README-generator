@@ -12,4 +12,4 @@ npm install basic-readme-generator
 ```shell
 npm explore basic-readme-generator -- npm run generateREADME
 ```
-## **Tutorial Video**
+## **[Tutorial Video](https://youtu.be/w7k2tMFHB4s)**
