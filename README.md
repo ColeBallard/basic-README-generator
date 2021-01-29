@@ -2,7 +2,7 @@
 ## **Description**
 
 Generate a basic README file from command-line input.
-## **Installation**
+## **Install**
 
 ```shell
 npm install basic-readme-generator
@@ -12,4 +12,11 @@ npm install basic-readme-generator
 ```shell
 npm explore basic-readme-generator -- npm run generateREADME
 ```
+
+## **Uninstall**
+
+```shell
+npm uninstall basic-readme-generator
+```
+
 ## **[Tutorial Video](https://youtu.be/w7k2tMFHB4s)**
