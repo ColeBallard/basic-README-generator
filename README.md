@@ -1,7 +1,7 @@
 # Basic README Generator
 ## **Description**
 
-Generate a README file from command-line input.
+Generate a basic README file from command-line input.
 ## **Install**
 
 ```shell
