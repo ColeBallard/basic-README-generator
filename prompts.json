@@ -1,0 +1,63 @@
+[{
+    "type": "input",
+    "message": "What is your github username?",
+    "name": "username"
+  },
+  {
+    "type": "input",
+    "message": "Email address:",
+    "name": "email"
+  },
+  {
+    "type": "input",
+    "message": "What is the title of the project?",
+    "name": "title"
+  },
+  {
+    "type": "input",
+    "message": "Description of the project:",
+    "name": "description"
+  },
+  {
+    "type": "input",
+    "message": "Installation instructions:",
+    "default": "none",
+    "name": "installation"
+  },
+  {
+    "type": "input",
+    "message": "Usage information:",
+    "default": "none",
+    "name": "usage"
+  },
+  {
+    "type": "input",
+    "message": "Contribution guidelines:",
+    "default": "none",
+    "name": "contribution"
+  },
+  {
+    "type": "input",
+    "message": "Test instructions:",
+    "default": "none",
+    "name": "test"
+  },
+  {
+    "type": "list",
+    "message": "Choose a license:",
+    "choices": [
+      "MIT",
+      "GNU GPL v3.0",
+      "Apache Lic. v3.0",
+      "Mozilla Public Lic. v2.0",
+      "none"
+    ],
+    "name": "license"
+  },
+  {
+    "type": "input",
+    "message": "Path to application screenshot:",
+    "default": "none",
+    "name": "screenshot"
+  }
+]

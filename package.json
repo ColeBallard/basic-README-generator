@@ -1,8 +1,8 @@
 {
   "name": "basic-readme-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate a basic README file from command-line input.",
-  "main": "index.js",
+  "main": "app.js",
   "author": "Cole Ballard <colebdev0@gmail.com> (https://coleballard.github.io/)",
   "license": "MIT",
   "dependencies": {
@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "generateREADME": "node index.js"
+    "generateREADME": "node app.js"
   },
   "repository": {
     "type": "git",
