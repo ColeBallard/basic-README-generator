@@ -1,7 +1,7 @@
 # Basic README Generator
 ## **Description**
 
-Generate a basic README file from command-line input in a Node.js project.
+Generate a basic README file from command-line input in a Node.js environment.
 ## **Install**
 
 ```shell
