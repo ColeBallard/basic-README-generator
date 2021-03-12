@@ -115,7 +115,7 @@ ${markdownSections.contact ? markdownSections.contact : ''}`;
   });
 }
 
-function init() {
+(function init() {
   let inquirer = require('inquirer');
   inquirer
   .prompt(PROMPTS)
@@ -129,6 +129,4 @@ function init() {
       console.log('Something else went wrong');
     }
   });
-}
-
-init();
+})();
