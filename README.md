@@ -32,4 +32,7 @@ Contact Info (email and github profile)
 npm uninstall basic-readme-generator
 ```
 
-## **[Tutorial Video](https://youtu.be/w7k2tMFHB4s)**
+## **Contribution**
+To suggest an idea or report a bug, please create an issue.
+
+## **[Contact](https://coleb.io/contact)**
