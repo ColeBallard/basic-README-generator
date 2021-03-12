@@ -1,6 +1,6 @@
 {
   "name": "basic-readme-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate a basic README file from command-line input in a Node.js environment.",
   "main": "app.js",
   "author": "Cole Ballard <colebdev0@gmail.com> (https://coleb.io)",
