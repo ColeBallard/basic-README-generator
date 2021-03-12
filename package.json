@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "gen": "node app.js"
+    "start": "node app.js",
+    "postinstall": "node config.js"
   },
   "repository": {
     "type": "git",
