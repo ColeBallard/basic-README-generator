@@ -10,7 +10,7 @@ npm install basic-readme-generator
 ## **Usage**
 
 ```shell
-npm explore basic-readme-generator -- npm run gen
+npm run generateREADME
 ```
 ## **Format**
 ```
