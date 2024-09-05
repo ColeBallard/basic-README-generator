@@ -35,4 +35,4 @@ npm uninstall basic-readme-generator
 ## **Contribution**
 To suggest an idea or report a bug, please create an issue.
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
